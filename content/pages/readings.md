@@ -281,7 +281,7 @@ Knapp, Keith K. "Traffic-Calming Basics." _Civil Engineering_ (January 2000): 46
 
 Shoup, Donald. "The Twenty-first Century Parking Problem." In  _The High Cost of Free Parking_. APA Planners Press, Washington DC, 2005. ISBN: 9781884829987.
 
-State of North Carolina. _Traditional Neighborhood Development (TND) Guidelines_. North Carolina Department of Transportation: Division of Highways, August 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://connect.ncdot.gov/projects/Roadway/RoadwayDesignAdministrativeDocuments/Traditional%20Neighborhood%20Development%20Manual.pdf))
+State of North Carolina. _Traditional Neighborhood Development (TND) Guidelines_. North Carolina Department of Transportation: Division of Highways, August 2000. ([PDF](https://connect.ncdot.gov/projects/Roadway/RoadwayDesignAdministrativeDocuments/Traditional%20Neighborhood%20Development%20Manual.pdf))
 
 
 {{< tdclose >}}
@@ -371,9 +371,9 @@ Culbertson, Kurt. "[Fixing the Strip](http://trid.trb.org/view.aspx?id=921564)."
 
 Currid, Elizabeth. "[How Art and Culture Happen in New York](http://www.informaworld.com/smpp/content~db=all~content=a785038110)." _Journal of the American Planning Association_ 73, no. 4, (Autumn 2007): 454-467.
 
-Hinshaw, Mark, and Brian Vanneman. "The Supermarket as a Neighborhood Building Block." _Planning_ (March 2010): 28-31. There was once a contentious fight about bringing a Super Stop and Shop to Needham Street; is it time to reconsider the use, perhaps on a smaller scale? ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://www.milwaukieoregon.gov/sites/default/files/fileattachments/community_development/page/33421/neighborhood_bldg_block.pdf))
+Hinshaw, Mark, and Brian Vanneman. "The Supermarket as a Neighborhood Building Block." _Planning_ (March 2010): 28-31. There was once a contentious fight about bringing a Super Stop and Shop to Needham Street; is it time to reconsider the use, perhaps on a smaller scale? ([PDF](https://www.milwaukieoregon.gov/sites/default/files/fileattachments/community_development/page/33421/neighborhood_bldg_block.pdf))
 
-Seidman, Karl F. _Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs_. The Fannie Mae Foundation, September 2004. An excellent primer. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](https://www.innovations.harvard.edu/sites/default/files/49663.pdf))
+Seidman, Karl F. _Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs_. The Fannie Mae Foundation, September 2004. An excellent primer. ([PDF - 1.8MB](https://www.innovations.harvard.edu/sites/default/files/49663.pdf))
 
 
 {{< tdclose >}}
@@ -415,9 +415,9 @@ Nyren, Ron. "Creating Temporary Landscapes on Empty Sites." _Urban Land_ 66, no.
 
 Talen, Emily. "[Design by the Rules: The Historical Underpinnings of Form-Based Codes](http://dx.doi.org/10.1080/01944360802686662)." _Journal of the American Planning Association_ 75, no. 2 (Spring 2009): 144-160.
 
-Cable, Faith. "Design First, Codify Second: Germany Offers Lessons for U.S. Planners." _Planning_ (July 2009): 24-29. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.5MB](https://www.yumpu.com/en/document/view/4046956/design-first-codify-second-germany-offers-lessons-for))
+Cable, Faith. "Design First, Codify Second: Germany Offers Lessons for U.S. Planners." _Planning_ (July 2009): 24-29. ([PDF - 3.5MB](https://www.yumpu.com/en/document/view/4046956/design-first-codify-second-germany-offers-lessons-for))
 
-Langdon, Philip. "The Not-So-Secret Code." _Planning_ (January 2006): 24-29. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.gatewayplanning.com/APA/The%20Not-So-Secret%20Code.pdf))
+Langdon, Philip. "The Not-So-Secret Code." _Planning_ (January 2006): 24-29. ([PDF](http://www.gatewayplanning.com/APA/The%20Not-So-Secret%20Code.pdf))
 
 Nasar, Jack L. "[Does Neotraditional Development Build Community](http://jpe.sagepub.com/content/23/1/58.abstract)?" _Journal of Planning Education and Research_ 23, no. 1 (Fall 2003): 58-68.
 
@@ -509,7 +509,7 @@ Kreisler, Barbara. "Moving Beyond Green." _Urban Land_ 65, no. 6 (June 2006): 76
 
 Groc, Isabelle. "[Keep Your Footprint Out of My Backyard](http://www.mtas.tennessee.edu/nbbks.nsf/0/B910ACE63CD387F28525729700627449?OpenDocument)." _Planning_ (January 2007): 32- 35. Vancouver's eco-density initiative described.
 
-Duerksen, Chris. "Saving the World Through Zoning." _Planning_ (January 2008): 28-30. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.law.du.edu/documents/rmlui/saving-the-world-through-zoning.pdf))
+Duerksen, Chris. "Saving the World Through Zoning." _Planning_ (January 2008): 28-30. ([PDF](http://www.law.du.edu/documents/rmlui/saving-the-world-through-zoning.pdf))
 
 
 {{< tdclose >}}
@@ -527,9 +527,9 @@ The mobility challenge for planning; transit-oriented and infill development
 
 Taylor, Brian D. "[Putting a Price on Mobility: Cars and Contradictions in Planning](http://www.informaworld.com/smpp/content~db=all~content=a787392634~frm=abslink)." _Journal of the American Planning Association_ 72, no. 3 (Summer 2006): 279-284.
 
-Handy, Susan. "The Road Less Driven." _Journal of the American Planning Association_ 72, no. 3 (Summer 2006): 274-278. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.des.ucdavis.edu/faculty/handy/TTP_seminar/longer_view.pdf))
+Handy, Susan. "The Road Less Driven." _Journal of the American Planning Association_ 72, no. 3 (Summer 2006): 274-278. ([PDF](http://www.des.ucdavis.edu/faculty/handy/TTP_seminar/longer_view.pdf))
 
-Tumlin, Jeffery, and Adam Millard-Ball. "How to Make Transit-Oriented Development Work." _Planning_ (May 2003): 14-19. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://people.ucsc.edu/~adammb/publications/Tumlin_Millard-Ball_2003_How_to_Make_TOD_Work.pdf))
+Tumlin, Jeffery, and Adam Millard-Ball. "How to Make Transit-Oriented Development Work." _Planning_ (May 2003): 14-19. ([PDF](https://people.ucsc.edu/~adammb/publications/Tumlin_Millard-Ball_2003_How_to_Make_TOD_Work.pdf))
 
 Strauss, Mark E., and Lawrence M. Rosenbloom. "Making TOD Real." _Urban Land_ 63, no. 5 (May, 2004): 14; 17.
 
